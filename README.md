@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+終於又來了這裡，曾經充滿回憶的地方。
 
-You can use the [editor on GitHub](https://github.com/Nighteye841228/Nighteye841228.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+但現在的自己，必須要拋棄這些記憶，不然——只是徒增痛苦。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+只會讓自己，跟那個人無法面對未來。
 
-### Markdown
+只能掉入，比死還要痛苦的深淵。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+他已經走了吧。等他到了公園，很快就會發現……
 
-```markdown
-Syntax highlighted code block
+既然是為了救贖，為什麼又得要一次次傷害他呢？
 
-# Header 1
-## Header 2
-### Header 3
+自己這樣做，真的有任何的意義存在嗎？
 
-- Bulleted
-- List
+沒有神的地方，自己從時間的縫隙中逃脫了齒輪，但沒有想到，卻還是得服膺於命運的指引。
 
-1. Numbered
-2. List
+或許，當初自己的選擇是錯誤的？
 
-**Bold** and _Italic_ and `Code` text
+但是如果已經選擇了錯誤的道路，也必須要讓這路變成正確的道路。
 
-[Link](url) and ![Image](src)
-```
+一定要想辦法，就算讓自己的血肉化為軌道，也必須要讓他瞭解，自己是可以存在的，是可以正確的活在世界上的。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+為了這個目的，自己選擇了這樣的道路，就算會讓他受傷，也會負起完全的責任。
 
-### Jekyll Themes
+只能不斷地抹消，讓在這裡存在的回憶一個一個消失，才有辦法在一切消失到原點的同時，兩人都可以得到最後的救贖吧。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nighteye841228/Nighteye841228.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+看起來剛用過的刮鬍刀，他是否已經發現柑橘不是他喜歡的口味呢？
 
-### Support or Contact
+看起來，他沒有發現馬桶座後面可愛的花紋。趕緊撕下來吧，如果一下子推了太多的進度，一定又會進入上次的輪迴吧。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+冰箱一樣的空空如也，只剩下自己喜歡吃的布丁。
+
+他明明不喜歡布丁，卻總是囤了兩盒在冰箱裡，他知道是自己喜歡布丁嗎？
